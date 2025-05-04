@@ -1,5 +1,5 @@
 # streamlit_euros_2024
 
-📄# Acknowlegement
+# 📄 Acknowlegement
 
 The dataset was pro
